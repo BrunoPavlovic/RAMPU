@@ -1,0 +1,14 @@
+{
+	"folders": [],
+	"settings": {
+		"sshfs.configs": [
+			{
+				"name": "bpavlovic20_zadaca01",
+				"host": "spider.foi.hr",
+				"username": "bpavlovic20",
+				"password": true,
+				"root": "/var/www/RWA/2022/zadaca_01/bpavlovic20/"
+			}
+		]
+	}
+}
